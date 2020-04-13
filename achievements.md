@@ -11,7 +11,7 @@
 - [uktgbr](#uktgbr)
 - [Kropa4TV](#kropa4TV)
 - [noizeross](#noizeross)
-- [LaddRussOo](#LaddRussOo)
+- [LaddRussoO](#LaddRussOo)
 
 
 ### serrashin
@@ -45,6 +45,10 @@
 ### Kropa4TV
 - Бессонный(приходит на стримы только проснувшись или перед сном)
 
+### LaddRussoO
+- Модератор(осторожно, у него молот)
+- Аква(самый полезный модератор в этом ониме)
+- 2chExpert(распознает двачеров по количеству цифр в нике)
+
 > ### Jackenstain
 > - ADSL(сидит на стримах из 2003-го года)
-> - Lurkmaster(в тени что-то есть)
