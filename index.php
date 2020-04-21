@@ -1,7 +1,7 @@
 
 <!DOCTYPE HTML>
 <title>Hello World!</title>
-<h1>Achievements</p>
+<h1>Achievements</h1>
 <script src="https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js"></script>
 
 <!-- index.html -->
