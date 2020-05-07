@@ -16,6 +16,7 @@ Mates, помните, что это всего-лишь мои наблюден
 - [noizeross](#noizeross)
 - [zenrays](#zenrays)
 - [blodzero](#blodzero)
+- [duue88d7d](#duue88d7d)
 - [Zii123](#Zii123)
 - [Fesgoose](#Fesgoose)
 - [Alexdarkstalker98_getto](#Alexdarkstalker98_getto)
@@ -77,6 +78,9 @@ Mates, помните, что это всего-лишь мои наблюден
 
 ### blodzero
 - Провокатор(рассказать фейк? набросить на вентилятор? это его непосильная ноша)
+
+### duue88d7d
+- Энтузиаст(набрать 50 тысяч новакоинов? challenge accepted)
 
 ### Zii123
 - Меееедииик(предупреждал всех посетителей о вирусах и заразе source leak в день эпидемии)
